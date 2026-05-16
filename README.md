@@ -1,3 +1,1 @@
-Hahah
-
-Live stats from my vs code
+In a world full of arrogant elitists, I’m just a humble seeker
