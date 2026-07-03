@@ -1,2 +1,2 @@
-19 | AI Engineer 
+19 | Artsit | AI Engineer 
 Currently Building NYXA-UI & Speak-AI @Sugarlabs
