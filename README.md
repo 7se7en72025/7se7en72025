@@ -12,10 +12,11 @@ I sketch things before I build them, and I build things before I trust them.
 **contributing**
 `Speak-AI` / `Music Blocks` at Sugar Labs, TTS and music tools for kids who are learning to think in code before they're old enough to overthink it.
 
+**upstream**
+`Kyverno` (CNCF), fixing namespace scoping bugs and type-mismatch edge cases in a policy engine that clusters actually run in production. Small diffs, real blast radius if they're wrong.
+
 **for myself**
 `pikapika`, a stack-based concatenative language, written because I wanted to know what it felt like to think backwards. It's slow, it's mine, it works.
-
-`OpenDiff`, reviewing pull requests shouldn't feel like reading through a keyhole. Building the version that doesn't.
 
 ---
 
