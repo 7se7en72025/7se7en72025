@@ -18,6 +18,9 @@ I sketch things before I build them, and I build things before I trust them.
 **for myself**
 `pikapika`, a stack-based concatenative language, written because I wanted to know what it felt like to think backwards. It's slow, it's mine, it works.
 
+
+**Building**
+`WSC Private Limited`, Co Founder, CTO
 ---
 
 no streak graphs here. check the commits if you want proof of work.
