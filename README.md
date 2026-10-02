@@ -1,4 +1,4 @@
-<!-- Dino animations from https://github.com/mrousavy/mrousavy -->
+Hola! I Am Raiyyan <3
 <a href="https://chromedino.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
